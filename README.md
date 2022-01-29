@@ -80,5 +80,3 @@ addEventListener(
 )
 ```
 </details>
-  
-> [更多来自热心网友PR的使用教程](/tutorial)
